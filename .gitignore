@@ -1,0 +1,4 @@
+*.py~
+*.pyc
+.gitignore~
+.ipynb_checkpoints/
